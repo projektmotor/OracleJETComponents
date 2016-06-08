@@ -1,0 +1,1 @@
+this.gaugeValue = ko.observable(50);
